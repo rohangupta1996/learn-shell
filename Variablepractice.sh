@@ -6,5 +6,5 @@ xyz()
 
 }
 a=22
-xyz
 echo value of b = $b
+xyz
