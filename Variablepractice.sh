@@ -1,2 +1,2 @@
-Date=15/06/23
-echo $Date
+a=15
+echo ${a}
