@@ -1,2 +1,2 @@
-Add=$((3+4))
-echo "Sum is " $Add
+echo $1
+echo $2
