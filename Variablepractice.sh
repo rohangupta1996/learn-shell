@@ -1,5 +1,10 @@
-echo $1
-echo $2
-echo $3
+xyz()
+{
+  echo Hello function
+  echo value of a = $a
+  b=11
+}
 
-echo $#
+xyz
+a=99
+echo value of b = $b
