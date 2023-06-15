@@ -1,2 +1,2 @@
-a=15
-echo ${a}
+DATE=$(date)
+echo "Todays date is $DATE"
