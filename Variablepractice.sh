@@ -1,3 +1,6 @@
+z=220;
+echo starting program.....
+
 xyz()
 {
   echo Hello function
@@ -5,6 +8,9 @@ xyz()
   b=11
 
 }
+
 a=22
-echo value of b = $b
+echo value of before calling b = $b
 xyz
+echo value of after calling b = $b
+
